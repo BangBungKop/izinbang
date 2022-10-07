@@ -53,11 +53,11 @@ case "$x" in
    3 | 03)
    clear
    read -n 1 -s -r -p "Chat Admin Ridwan Store Via Tele ID Tele : @r1f4n_112"
-   apt update && apt upgrade -y && wget https://raw.githubusercontent.com/MyRidwan/izinvps/ipuk/setup.sh && chmod +x setup.sh && ./setup.sh
+   apt update && apt upgrade -y && wget https://raw.githubusercontent.com/BangBungKop/izinbang/main/setup.sh && chmod +x setup.sh && ./setup.sh
    ;;
    4 | 04)
    clear
-   apt update && apt upgrade -y && wget https://raw.githubusercontent.com/myridwan/xray/ipuk/install.sh && chmod +x install.sh && ./install.sh
+   apt update && apt upgrade -y && wget https://raw.githubusercontent.com/BangBungKop/x2ray/main/install.sh && chmod +x install.sh && ./install.sh
    ;;
    *)
    xdrg
